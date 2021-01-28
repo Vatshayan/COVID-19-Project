@@ -1,4 +1,6 @@
 # COVID-19-Project
+![tcard COVID world map](https://user-images.githubusercontent.com/28294942/106125343-0d32ae00-6182-11eb-82db-b25c1d1836c6.png)
+
 Full Project showing Analysis, Visualization and Prediction on COVID 19 Cases. 
 
 
