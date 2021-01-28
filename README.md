@@ -13,26 +13,20 @@ The virus that causes COVID-19 is mainly transmitted through droplets generated 
 You can be infected by breathing in the virus if you are within close proximity of someone who has COVID-19, or by touching a contaminated surface and then your eyes, nose or mouth.
 
 **Most common symptoms:**
-fever
-dry cough
-tiredness
+fever, dry cough & tiredness
 
 **Less common symptoms:**
-aches and pains
-sore throat
-diarrhoea
-conjunctivitis
-headache
-loss of taste or smell
-a rash on skin, or discolouration of fingers or toes
+aches and pains, sore throat, diarrhoea, conjunctivitis, headache, loss of taste or smell, a rash on skin or discolouration of fingers or toes
 
-Machine Learning Algorithm and libraries are applied.
+- Machine Learning Algorithm and libraries are applied.
 
 ## CONTACT
 
 Mail me Now **vatshayan007@gmail.com** for Project Code, Report, Description, PPT and Datasets of this Project.
 
 You can use this Project for your College and University Project Submission.
+
+Very Interesting & Top class Project.
 
 Let's Learn, Grow and Work together!
 Ask Freely;-)
