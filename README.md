@@ -20,6 +20,8 @@ aches and pains, sore throat, diarrhoea, conjunctivitis, headache, loss of taste
 
 - Machine Learning Algorithm and libraries are applied.
 
+Read this Project on Blog- **https://college-projects-help.blogspot.com/p/covid-19-project.html**
+
 ## CONTACT
 
 Mail me Now **vatshayan007@gmail.com** for Project Code, Report, Description, PPT and Datasets of this Project.
