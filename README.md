@@ -22,15 +22,26 @@ aches and pains, sore throat, diarrhoea, conjunctivitis, headache, loss of taste
 
 Read this Project on Blog- **https://college-projects-help.blogspot.com/p/covid-19-project.html**
 
-## CONTACT
+****************************************************************************************************************************************************
+### Hi there 👋
 
-Mail me Now **vatshayan007@gmail.com** for Project Code, Report, Description, PPT and Datasets of this Project.
+You Can use this Beautiful Project for your college Project and get good marks too. 
 
-You can use this Project for your College and University Project Submission.
+Email me Now **vatshayan007@gmail.com** to get this Full Project Code, PPT, Report, Synopsis, Video Presentation and Research paper of this Project.
 
-Very Interesting & Top class Project.
+💌 Feel free to contact me for any kind of help on projects related to Machine Learning, Data Science, Cryptography, DIP, Web technologies and Cloud.
 
-Let's Learn, Grow and Work together!
-Ask Freely;-)
+
+### HOW TO RUN THE PROJECT-
+⚡ Email me at **vatshayan007@gmail.com** to get a detailed Guide report to run the project with source Code.
+
+### INTERNSHIP 
+🌟 Internship oppurtunity for everyone - https://github.com/Vatshayan/INTERNSHIP
+
+### 📫 HOW TO REACH ME 
+
+💬 Gmail: **vatshayan007@gmail.com**
+
+Happy to Help you😄😅
 
 
